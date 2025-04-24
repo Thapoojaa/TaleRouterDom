@@ -2,7 +2,7 @@
   "name": "talerouterdom",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kaneswaranJalani.github.io/talerouterdom",
+  "homepage": "https://github.com/Thapoojaa/TaleRouterDom.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
