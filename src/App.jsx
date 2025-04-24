@@ -3,7 +3,8 @@ import Home from "../src/pages/Home"
 import About from "../src/pages/About"
 import Faq from "../src/pages/Faq"
 import Contact from "../src/pages/Contact"
-import { BrowserRouter as Router,Routes,Route } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+
 
 
 
